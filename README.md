@@ -1,3 +1,3 @@
 # Uber
-[link] (https://liddell777.github.io/Uber/blob/uber-clone/src/index.html)
+__[link]__ (https://liddell777.github.io/Uber/src/index.html)
 
